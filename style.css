@@ -25,6 +25,7 @@ body {
   height: 24vh;
   border-radius: 12px;
   padding: 20px;
+  background-color:white;
 }
 
 .clock h1 {
